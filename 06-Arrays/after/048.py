@@ -1,5 +1,11 @@
-def create_2d_arr(x, y):
-    array = [[0]*x]*y
-    return array
+array = [
+    [1, 2],
+    [1, 3],
+    [1, 4],
+    [1, 5]
+]
 
-print(create_2d_arr(3, 5))
+for i in array:
+    for j in i:
+        print(j, end=" ")
+    print()
