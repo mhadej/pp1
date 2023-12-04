@@ -1,0 +1,7 @@
+{"table":"C","country":"UGW","symbol":"978","code":"EUR","rates":[{"no":"76/C/NBP/2004","effectiveDate":"2004-04-19","bid":4.7400,"ask":4.8358},{"no":"77/C/NBP/2004","effectiveDate":"2004-04-20","bid":4.7305,"ask":4.8261},{"no":"78/C/NBP/2004","effectiveDate":"2004-04-21","bid":4.7132,"ask":4.8084},{"no":"79/C/NBP/2004","effectiveDate":"2004-04-22","bid":4.7035,"ask":4.7985},{"no":"80/C/NBP/2004","effectiveDate":"2004-04-23","bid":4.7180,"ask":4.8134},{"no":"81/C/NBP/2004","effectiveDate":"2004-04-26","bid":4.7061,"ask":4.8011},{"no":"82/C/NBP/2004","effectiveDate":"2004-04-27","bid":4.7313,"ask":4.8269},{"no":"83/C/NBP/2004","effectiveDate":"2004-04-28","bid":4.7346,"ask":4.8302},{"no":"84/C/NBP/2004","effectiveDate":"2004-04-29","bid":4.7333,"ask":4.8289},
+{   
+    "no":"85/C/NBP/2004",
+    "effectiveDate": "2004-04-30",
+    "bid": 4.7501,
+    "ask": 4.8461  
+}]}
