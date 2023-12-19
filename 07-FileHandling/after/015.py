@@ -5,15 +5,13 @@ import re
 pattern = r"\d\.\d"
 
 try:
-    with open(r"07-FileHandling\after\grades.txt") as file:
+    with open(r"after\grades.txt") as file:
         grades = re.findall(pattern, file.read())
-        counter = 0
         sum = 0
 
         for grade in grades:
-            counter += 1
             sum += float(grade)
 
-        print(f"Arithmetic mean of Peter's grades: {round(sum/counter, 2)}")
+        print(f"Arithmetic mean of Peter's grades: {round(sum/len(grades), 2)}")
 except FileNotFoundError as err:
     print(err)
